@@ -2,11 +2,6 @@
 [Ll]ibrary/
 [Tt]emp/
 [Oo]bj/
-[Bb]uild/
-[Bb]uilds/
+# [Bb]uild/
+# [Bb]uilds/
 [Ll]ogs/
-
-# Ignore cache & local settings
-
-# Ignore OS-specific files
-

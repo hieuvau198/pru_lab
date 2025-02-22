@@ -1,0 +1,306 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ADMIN\\Downloads\\Galaxy Shooter\\Galaxy Shooter\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BB45C5EF-94AE-6523-5712-AD01709C9D01}|Assembly-CSharp.csproj|c:\\users\\admin\\downloads\\galaxy shooter\\galaxy shooter\\assets\\_scripts\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB45C5EF-94AE-6523-5712-AD01709C9D01}|Assembly-CSharp.csproj|solutionrelative:assets\\_scripts\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Study\\S7\\PRU\\Galaxy Shooter\\Assets\\_Scripts\\EnemyBullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Study\\S7\\PRU\\Galaxy Shooter\\Assets\\_Scripts\\AudioManger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Study\\S7\\PRU\\Galaxy Shooter\\Assets\\_Scripts\\AudioManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Study\\S7\\PRU\\Galaxy Shooter\\Assets\\_Scripts\\VolumeSetting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB45C5EF-94AE-6523-5712-AD01709C9D01}|Assembly-CSharp.csproj|C:\\Users\\ADMIN\\Downloads\\Galaxy Shooter\\Galaxy Shooter\\assets\\_scripts\\player\\playerbullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB45C5EF-94AE-6523-5712-AD01709C9D01}|Assembly-CSharp.csproj|solutionrelative:assets\\_scripts\\player\\playerbullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB45C5EF-94AE-6523-5712-AD01709C9D01}|Assembly-CSharp.csproj|C:\\Users\\ADMIN\\Downloads\\Galaxy Shooter\\Galaxy Shooter\\assets\\_scripts\\rotator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB45C5EF-94AE-6523-5712-AD01709C9D01}|Assembly-CSharp.csproj|solutionrelative:assets\\_scripts\\rotator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB45C5EF-94AE-6523-5712-AD01709C9D01}|Assembly-CSharp.csproj|C:\\Users\\ADMIN\\Downloads\\Galaxy Shooter\\Galaxy Shooter\\assets\\_scripts\\audio\\volumesetting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB45C5EF-94AE-6523-5712-AD01709C9D01}|Assembly-CSharp.csproj|solutionrelative:assets\\_scripts\\audio\\volumesetting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB45C5EF-94AE-6523-5712-AD01709C9D01}|Assembly-CSharp.csproj|C:\\Users\\ADMIN\\Downloads\\Galaxy Shooter\\Galaxy Shooter\\assets\\_scripts\\audio\\audiomanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB45C5EF-94AE-6523-5712-AD01709C9D01}|Assembly-CSharp.csproj|solutionrelative:assets\\_scripts\\audio\\audiomanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB45C5EF-94AE-6523-5712-AD01709C9D01}|Assembly-CSharp.csproj|C:\\Users\\ADMIN\\Downloads\\Galaxy Shooter\\Galaxy Shooter\\assets\\honeti\\mobile_cartoon_gui\\scripts\\switch_scenes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB45C5EF-94AE-6523-5712-AD01709C9D01}|Assembly-CSharp.csproj|solutionrelative:assets\\honeti\\mobile_cartoon_gui\\scripts\\switch_scenes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB45C5EF-94AE-6523-5712-AD01709C9D01}|Assembly-CSharp.csproj|C:\\Users\\ADMIN\\Downloads\\Galaxy Shooter\\Galaxy Shooter\\assets\\_scripts\\dodamage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB45C5EF-94AE-6523-5712-AD01709C9D01}|Assembly-CSharp.csproj|solutionrelative:assets\\_scripts\\dodamage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB45C5EF-94AE-6523-5712-AD01709C9D01}|Assembly-CSharp.csproj|C:\\Users\\ADMIN\\Downloads\\Galaxy Shooter\\Galaxy Shooter\\assets\\udemy assets\\missle\\license.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{BB45C5EF-94AE-6523-5712-AD01709C9D01}|Assembly-CSharp.csproj|solutionrelative:assets\\udemy assets\\missle\\license.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB45C5EF-94AE-6523-5712-AD01709C9D01}|Assembly-CSharp.csproj|C:\\Users\\ADMIN\\Downloads\\Galaxy Shooter\\Galaxy Shooter\\assets\\_scripts\\itemdrop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB45C5EF-94AE-6523-5712-AD01709C9D01}|Assembly-CSharp.csproj|solutionrelative:assets\\_scripts\\itemdrop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB45C5EF-94AE-6523-5712-AD01709C9D01}|Assembly-CSharp.csproj|C:\\Users\\ADMIN\\Downloads\\Galaxy Shooter\\Galaxy Shooter\\assets\\_scripts\\bgscroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB45C5EF-94AE-6523-5712-AD01709C9D01}|Assembly-CSharp.csproj|solutionrelative:assets\\_scripts\\bgscroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB45C5EF-94AE-6523-5712-AD01709C9D01}|Assembly-CSharp.csproj|C:\\Users\\ADMIN\\Downloads\\Galaxy Shooter\\Galaxy Shooter\\assets\\_scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB45C5EF-94AE-6523-5712-AD01709C9D01}|Assembly-CSharp.csproj|solutionrelative:assets\\_scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB45C5EF-94AE-6523-5712-AD01709C9D01}|Assembly-CSharp.csproj|C:\\Users\\ADMIN\\Downloads\\Galaxy Shooter\\Galaxy Shooter\\assets\\_scripts\\player\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB45C5EF-94AE-6523-5712-AD01709C9D01}|Assembly-CSharp.csproj|solutionrelative:assets\\_scripts\\player\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB45C5EF-94AE-6523-5712-AD01709C9D01}|Assembly-CSharp.csproj|C:\\Users\\ADMIN\\Downloads\\Galaxy Shooter\\Galaxy Shooter\\assets\\_scripts\\lifecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB45C5EF-94AE-6523-5712-AD01709C9D01}|Assembly-CSharp.csproj|solutionrelative:assets\\_scripts\\lifecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB45C5EF-94AE-6523-5712-AD01709C9D01}|Assembly-CSharp.csproj|C:\\Users\\ADMIN\\Downloads\\Galaxy Shooter\\Galaxy Shooter\\assets\\_scripts\\mover.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB45C5EF-94AE-6523-5712-AD01709C9D01}|Assembly-CSharp.csproj|solutionrelative:assets\\_scripts\\mover.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 17,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PlayerBullet.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Downloads\\Galaxy Shooter\\Galaxy Shooter\\Assets\\_Scripts\\Player\\PlayerBullet.cs",
+              "RelativeDocumentMoniker": "Assets\\_Scripts\\Player\\PlayerBullet.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Downloads\\Galaxy Shooter\\Galaxy Shooter\\Assets\\_Scripts\\Player\\PlayerBullet.cs",
+              "RelativeToolTip": "Assets\\_Scripts\\Player\\PlayerBullet.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T17:15:10.524Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Rotator.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Downloads\\Galaxy Shooter\\Galaxy Shooter\\Assets\\_Scripts\\Rotator.cs",
+              "RelativeDocumentMoniker": "Assets\\_Scripts\\Rotator.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Downloads\\Galaxy Shooter\\Galaxy Shooter\\Assets\\_Scripts\\Rotator.cs",
+              "RelativeToolTip": "Assets\\_Scripts\\Rotator.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAkwBQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T07:48:39.975Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "VolumeSetting.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Downloads\\Galaxy Shooter\\Galaxy Shooter\\Assets\\_Scripts\\Audio\\VolumeSetting.cs",
+              "RelativeDocumentMoniker": "Assets\\_Scripts\\Audio\\VolumeSetting.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Downloads\\Galaxy Shooter\\Galaxy Shooter\\Assets\\_Scripts\\Audio\\VolumeSetting.cs",
+              "RelativeToolTip": "Assets\\_Scripts\\Audio\\VolumeSetting.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAQwBYAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T07:25:33.901Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AudioManager.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Downloads\\Galaxy Shooter\\Galaxy Shooter\\Assets\\_Scripts\\Audio\\AudioManager.cs",
+              "RelativeDocumentMoniker": "Assets\\_Scripts\\Audio\\AudioManager.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Downloads\\Galaxy Shooter\\Galaxy Shooter\\Assets\\_Scripts\\Audio\\AudioManager.cs",
+              "RelativeToolTip": "Assets\\_Scripts\\Audio\\AudioManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACoAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T07:24:58.78Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "switch_scenes.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Downloads\\Galaxy Shooter\\Galaxy Shooter\\Assets\\HONETi\\mobile_cartoon_GUI\\Scripts\\switch_scenes.cs",
+              "RelativeDocumentMoniker": "Assets\\HONETi\\mobile_cartoon_GUI\\Scripts\\switch_scenes.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Downloads\\Galaxy Shooter\\Galaxy Shooter\\Assets\\HONETi\\mobile_cartoon_GUI\\Scripts\\switch_scenes.cs",
+              "RelativeToolTip": "Assets\\HONETi\\mobile_cartoon_GUI\\Scripts\\switch_scenes.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA0AAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T08:36:17.731Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DoDamage.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Downloads\\Galaxy Shooter\\Galaxy Shooter\\Assets\\_Scripts\\DoDamage.cs",
+              "RelativeDocumentMoniker": "Assets\\_Scripts\\DoDamage.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Downloads\\Galaxy Shooter\\Galaxy Shooter\\Assets\\_Scripts\\DoDamage.cs",
+              "RelativeToolTip": "Assets\\_Scripts\\DoDamage.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T06:10:47.55Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "License.txt",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Downloads\\Galaxy Shooter\\Galaxy Shooter\\Assets\\Udemy Assets\\missle\\License.txt",
+              "RelativeDocumentMoniker": "Assets\\Udemy Assets\\missle\\License.txt",
+              "ToolTip": "C:\\Users\\ADMIN\\Downloads\\Galaxy Shooter\\Galaxy Shooter\\Assets\\Udemy Assets\\missle\\License.txt",
+              "RelativeToolTip": "Assets\\Udemy Assets\\missle\\License.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-10-11T06:57:39.163Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ItemDrop.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Downloads\\Galaxy Shooter\\Galaxy Shooter\\Assets\\_Scripts\\ItemDrop.cs",
+              "RelativeDocumentMoniker": "Assets\\_Scripts\\ItemDrop.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Downloads\\Galaxy Shooter\\Galaxy Shooter\\Assets\\_Scripts\\ItemDrop.cs",
+              "RelativeToolTip": "Assets\\_Scripts\\ItemDrop.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T09:27:14.514Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "BGScroller.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Downloads\\Galaxy Shooter\\Galaxy Shooter\\Assets\\_Scripts\\BGScroller.cs",
+              "RelativeDocumentMoniker": "Assets\\_Scripts\\BGScroller.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Downloads\\Galaxy Shooter\\Galaxy Shooter\\Assets\\_Scripts\\BGScroller.cs",
+              "RelativeToolTip": "Assets\\_Scripts\\BGScroller.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T07:48:00.723Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "GameManager.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Downloads\\Galaxy Shooter\\Galaxy Shooter\\Assets\\_Scripts\\GameManager.cs",
+              "RelativeDocumentMoniker": "Assets\\_Scripts\\GameManager.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Downloads\\Galaxy Shooter\\Galaxy Shooter\\Assets\\_Scripts\\GameManager.cs",
+              "RelativeToolTip": "Assets\\_Scripts\\GameManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAiwAkAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T06:47:05.579Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "PlayerController.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Downloads\\Galaxy Shooter\\Galaxy Shooter\\Assets\\_Scripts\\Player\\PlayerController.cs",
+              "RelativeDocumentMoniker": "Assets\\_Scripts\\Player\\PlayerController.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Downloads\\Galaxy Shooter\\Galaxy Shooter\\Assets\\_Scripts\\Player\\PlayerController.cs",
+              "RelativeToolTip": "Assets\\_Scripts\\Player\\PlayerController.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAAAJ8AAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T08:27:57.251Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EnemyBullet.cs",
+              "DocumentMoniker": "C:\\Study\\S7\\PRU\\Galaxy Shooter\\Assets\\_Scripts\\EnemyBullet.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Study\\S7\\PRU\\Galaxy Shooter\\Assets\\_Scripts\\EnemyBullet.cs",
+              "ToolTip": "C:\\Study\\S7\\PRU\\Galaxy Shooter\\Assets\\_Scripts\\EnemyBullet.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Study\\S7\\PRU\\Galaxy Shooter\\Assets\\_Scripts\\EnemyBullet.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T08:26:25.466Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "LifeController.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Downloads\\Galaxy Shooter\\Galaxy Shooter\\Assets\\_Scripts\\LifeController.cs",
+              "RelativeDocumentMoniker": "Assets\\_Scripts\\LifeController.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Downloads\\Galaxy Shooter\\Galaxy Shooter\\Assets\\_Scripts\\LifeController.cs",
+              "RelativeToolTip": "Assets\\_Scripts\\LifeController.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwCcAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T05:47:58.778Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Mover.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Downloads\\Galaxy Shooter\\Galaxy Shooter\\Assets\\_Scripts\\Mover.cs",
+              "RelativeDocumentMoniker": "Assets\\_Scripts\\Mover.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Downloads\\Galaxy Shooter\\Galaxy Shooter\\Assets\\_Scripts\\Mover.cs",
+              "RelativeToolTip": "Assets\\_Scripts\\Mover.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T05:40:38.635Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AudioManager.cs",
+              "DocumentMoniker": "C:\\Study\\S7\\PRU\\Galaxy Shooter\\Assets\\_Scripts\\AudioManager.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Study\\S7\\PRU\\Galaxy Shooter\\Assets\\_Scripts\\AudioManager.cs",
+              "ToolTip": "C:\\Study\\S7\\PRU\\Galaxy Shooter\\Assets\\_Scripts\\AudioManager.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Study\\S7\\PRU\\Galaxy Shooter\\Assets\\_Scripts\\AudioManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T15:52:23.552Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AudioManger.cs",
+              "DocumentMoniker": "C:\\Study\\S7\\PRU\\Galaxy Shooter\\Assets\\_Scripts\\AudioManger.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Study\\S7\\PRU\\Galaxy Shooter\\Assets\\_Scripts\\AudioManger.cs",
+              "ToolTip": "C:\\Study\\S7\\PRU\\Galaxy Shooter\\Assets\\_Scripts\\AudioManger.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Study\\S7\\PRU\\Galaxy Shooter\\Assets\\_Scripts\\AudioManger.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T15:35:30.122Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "VolumeSetting.cs",
+              "DocumentMoniker": "C:\\Study\\S7\\PRU\\Galaxy Shooter\\Assets\\_Scripts\\VolumeSetting.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Study\\S7\\PRU\\Galaxy Shooter\\Assets\\_Scripts\\VolumeSetting.cs",
+              "ToolTip": "C:\\Study\\S7\\PRU\\Galaxy Shooter\\Assets\\_Scripts\\VolumeSetting.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Study\\S7\\PRU\\Galaxy Shooter\\Assets\\_Scripts\\VolumeSetting.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T14:35:54.922Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainMenu.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Downloads\\Galaxy Shooter\\Galaxy Shooter\\Assets\\_Scripts\\MainMenu.cs",
+              "RelativeDocumentMoniker": "Assets\\_Scripts\\MainMenu.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Downloads\\Galaxy Shooter\\Galaxy Shooter\\Assets\\_Scripts\\MainMenu.cs",
+              "RelativeToolTip": "Assets\\_Scripts\\MainMenu.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T08:57:11.543Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
